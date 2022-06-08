@@ -1,4 +1,5 @@
-#Documentation
+# Documentation
+
 This project was I made by example code. I used HTML, CSS and Javascript.
 
 The purpose of project to I practising how to use GitHub. I am trying use the most functions it.
